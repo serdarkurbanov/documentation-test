@@ -4,4 +4,4 @@
 
 Internal documents:
 
-[internal](./documents-for-me/README.md)
+!DACDOC{[internal](./documents-for-me/README.md)}!
