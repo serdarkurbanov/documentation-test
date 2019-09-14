@@ -9,6 +9,5 @@ Names
 * BAA
 * NNNSSLAKMS
 * EGOR
-* TTT
 }(test=countCheck)!
 
